@@ -8,4 +8,4 @@ Project overview:
 -->changing object data type field to category saves memory such as state, gender, etc.
 Python libraries used: pandas, glob 
 
-
+-->names by state dataset is available in master branch
